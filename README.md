@@ -1,16 +1,20 @@
-# cat_vs_dog
+# DogVsCat Detector
 
-A new Flutter application.
+A Dog and Cat Detector app built using a Computational Neural Network
 
-## Getting Started
+## About The Project
 
-This project is a starting point for a Flutter application.
+This is a simple Dog and Cat Detector app. The Computational Neural Network (CNN) was built using Google's Teachable Machine and then exported to my flutter application using tensorflow and the tflite package. 
 
-A few resources to get you started if this is your first Flutter project:
+## Plugins Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [tflite](https://pub.dev/packages/tflite)
+- [image_picker](https://pub.dev/packages/image_picker)
+- [splashscreen](https://pub.dev/packages/splashscreen)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+Hi, I am Arjun Veer Kohli. I'm currently pursuing a Computer Science major at Krea University. Look forward to knowing you!
+- [Linkedin](linkedin.com/in/arjunveerkohli)
+
+
