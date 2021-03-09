@@ -1,6 +1,6 @@
-# cat_vs_dog
+# DogVsCat Detector
 
-A new Flutter application.
+A simple Dog and Cat Detector app built using a Computational Neural Network
 
 ## Getting Started
 
